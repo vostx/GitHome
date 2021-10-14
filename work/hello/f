@@ -1,0 +1,23 @@
+[33mcommit e20bd9c851e792b15f47e084975ec5db0a2981d7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: vostx <stognij1982@gmail.com>
+Date:   Thu Oct 14 15:40:49 2021 +0300
+
+    Added HTML header
+
+[33mcommit 75c03019c9761d6e3de4778f171f7957642eb397[m
+Author: vostx <stognij1982@gmail.com>
+Date:   Thu Oct 14 15:40:16 2021 +0300
+
+    Added standart HTML page tags
+
+[33mcommit 151c56fed85612fea3156cd144aefcd0ba70a3b0[m
+Author: vostx <stognij1982@gmail.com>
+Date:   Thu Oct 14 15:30:51 2021 +0300
+
+    Added h1 tag
+
+[33mcommit a9f9b6cead2ffcd8c79446703f937f962900781c[m
+Author: vostx <stognij1982@gmail.com>
+Date:   Thu Oct 14 15:27:40 2021 +0300
+
+    First Commit
